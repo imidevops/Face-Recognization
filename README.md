@@ -4,6 +4,8 @@ A robust, web-based Face Attendance System deployed on Debian 12. This project u
 
 It features a **Client-Side Camera** architecture, allowing the server to process video feeds from any connected client (laptop/mobile) via a web browser, ensuring the server doesn't need a physical webcam attached.
 
+<img width="795" height="587" alt="image" src="https://github.com/user-attachments/assets/06666317-95d4-4f9f-ae7c-62e023c3e6d0" />
+
 ## 🚀 Features
 
 *   **Live Face Recognition:** Detects faces in real-time via the browser webcam.
